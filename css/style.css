@@ -1,0 +1,101 @@
+body{
+margin-top:5px;
+margin-bottom:5px;
+margin-right:5px;
+margin-left:5px;
+}
+
+p {
+	font-family: Calibri; 
+	font-size: 11pt;
+	line-height: 1.8em;
+	padding-left: 2em;
+}
+
+
+
+h2 {   
+	font: normal 120% Georgia;
+	line-height: 200%;
+	color: #265180;
+	background-color: transparent;
+	border-bottom: 1px dotted #17abe9;
+}
+
+h3 {
+	font-family: Tahoma; 
+	font-size: 14pt;
+	padding-left: 1.2em;
+}
+
+
+
+table.wapu {border-style: none; margin: 10px 10px;}
+
+td.wapu
+{
+	font-family: calibri; 
+	vertical-align: top;
+	font-size: 10pt;
+	border-right-style:none;
+	border-left-style:none;
+}
+
+
+td.isi{font-size: 10pt;}
+
+
+td.bag1
+{
+	vertical-align: middle;
+	text-align: center;
+	font-size: 9pt;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #969BA5;
+	border-collapse: collapse;
+}
+
+table {
+	width:99%;
+	font-family: calibri; 
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	border-collapse: collapse;
+	margin: 5px 5px;
+}
+
+
+th{
+	font-size: 11pt;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0.5em;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #969BA5;
+	border-collapse: collapse;
+	background-color: #17abe9;
+}
+
+
+td.terbilang{
+	font-family: calibri; 
+	vertical-align: middle;
+	font-size: 12pt; 
+}
+
+td{
+	font-size: 10pt;
+	padding: 0.5em;
+	vertical-align: top;
+	border-width: 1px;
+	border-top-style:none;
+	border-right-style:solid;
+	border-bottom-style:none;
+	border-left-style:solid;
+	border-color: #969BA5;
+	border-collapse: collapse;
+}
